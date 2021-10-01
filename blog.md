@@ -3,9 +3,6 @@ layout: default
 title: "Labs"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+Lab 1 : [repository]((https://github.com/twdixon/twdixon.github.io/blob/master/_posts/MODE_LAB1_Dixon.pdf)
 
+Lab 2 : [repository]((https://github.com/twdixon/twdixon.github.io/blob/master/_posts/MODE_LAB1_Dixon.pdf)
