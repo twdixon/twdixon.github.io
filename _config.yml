@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Labs"}
   - {file: "README.md"}
-  - {file: "TaylorDixon_Resume.pdf", title: "Resume"}
+  - {url: "https://github.com/twdixon/twdixon.github.io/blob/master/TaylorDixon_Resume.pdf", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:taylor.dixon@dcmail.ca"}
